@@ -23,3 +23,5 @@ Este proyecto contiene pruebas automatizadas para validar la creación de usuari
 pip install pytest requests
 ## Notas
 Trabajo en rama develop
+## Actualización
+Se agregaron mejoras al proyecto 🚀
