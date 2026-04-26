@@ -21,3 +21,5 @@ Este proyecto contiene pruebas automatizadas para validar la creación de usuari
 ### 1. Instalar dependencias
 ```bash
 pip install pytest requests
+## Notas
+Trabajo en rama develop
